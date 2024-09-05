@@ -37,3 +37,17 @@ public class IntegerOperations {
         scanner.close();
     }
 }
+//Paste console output below:
+/*
+Enter number 1: 5
+Enter number 2: 10
+Original numbers are 5 and 10
+Sum = 15
+Difference = -5
+Product = 50
+Average = 7.5
+Absolute value = 5
+Maximum = 10
+Minimum = 5
+
+*/
